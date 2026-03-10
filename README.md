@@ -136,13 +136,13 @@ def visualize_denoising(model, loader, start=15,end=25):
 ### OUTPUT
 
 ### Model Summary
-![alt text](image.png)
+<img width="785" height="453" alt="image" src="https://github.com/user-attachments/assets/cf03d62a-1730-4fce-97b8-d6590aa43cca" />
 
 ### Training loss
 
-![alt text](image-1.png)
+<img width="271" height="737" alt="image" src="https://github.com/user-attachments/assets/b61795be-8caf-417e-ac07-3de049d69997" />
 ## Original vs Noisy Vs Reconstructed Image
-![alt text](image-2.png)
+<img width="1789" height="589" alt="image" src="https://github.com/user-attachments/assets/537ef44d-8e9a-462d-bd11-da1cc8333d34" />
 
 ## RESULT
 
